@@ -19,6 +19,7 @@ O índice é calculado da seguinte maneira: divide-se o peso do paciente pela su
 <h1 align="center"> 
 <img src="https://user-images.githubusercontent.com/43822467/87994791-3a601e80-cac4-11ea-9ef0-fc31a47a61cc.png" width="1000px" style="max-width:100%;">
 </h1>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
